@@ -1,0 +1,6 @@
+This is a project of hotel billing system.
+It contains the flowchart which describes the flow of the project.
+It reads the menufile and then displays to the client and then gets the quantity from the client.It stores the client number and total money in file named as today_date file.
+It reads the todays_date file in array when you want to see the daily report.
+Add the total client and the money at the end and displays the total. 
+
