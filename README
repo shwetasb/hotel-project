@@ -1,0 +1,31 @@
+Title of the project : Hotel Billing System
+Name: Shweta Suhas Bavdhankar
+MIS ID:141503001
+The project of Hotel Billing System contains three modules:
+1)Customer Management
+2)Menu Management
+3)Report
+The Customer Management module consists of  following functions:
+1)addcustomer:
+The addCustomer function adds the customer details such as the table no,recipe name and the total bill of the customerto a file.
+2)viewcustomer:
+The viewCustomer function displays the customer details such as table no,recipe name the customer has ordered and total bill of the customer from the file on the screen.
+3)searchcustomer
+The searchcustomer function searches the particular table no and displays the entire record of the table searched from the file on the screen.
+4)deletecustomer
+The deletetable function deletes the particular table no from the file.
+5)deletefile
+The delete function delets the entire file. 
+The Menu Management module consists of following functions:
+1)addmenu
+The addmenu function adds the new menu to the menu file.
+2)deletemenu
+The deletemenu function deletes the particular menu from the menu file.
+3)viewmenu
+The viewmenu function displays the menus of the hotel from the menu file.
+4)updatemenu
+The updatemenu function updates the particular menu from the menu file.
+The Report module consists of following function:
+Totaltables
+The totaltable function shows the total number of tables served.
+
